@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-18T23:07:11 IST" name="Login Suite" finished-at="2026-01-18T23:07:26 IST" duration-ms="15009">
+    <groups>
+    </groups>
+    <test started-at="2026-01-18T23:07:11 IST" name="Login page Test" finished-at="2026-01-18T23:07:26 IST" duration-ms="15009">
+      <class name="kbm.qa.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:11 IST" name="setup" finished-at="2026-01-18T23:07:18 IST" duration-ms="6753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:18 IST" name="setUpPage" finished-at="2026-01-18T23:07:18 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:18 IST" name="loginPageTitleTest" finished-at="2026-01-18T23:07:18 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:18 IST" name="tearDown" finished-at="2026-01-18T23:07:18 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:18 IST" name="setup" finished-at="2026-01-18T23:07:21 IST" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:21 IST" name="setUpPage" finished-at="2026-01-18T23:07:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="loginPageURLTest()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:21 IST" name="loginPageURLTest" finished-at="2026-01-18T23:07:21 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageURLTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:21 IST" name="tearDown" finished-at="2026-01-18T23:07:21 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:21 IST" name="setup" finished-at="2026-01-18T23:07:25 IST" duration-ms="3204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:25 IST" name="setUpPage" finished-at="2026-01-18T23:07:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="validLoginTest()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:25 IST" name="validLoginTest" finished-at="2026-01-18T23:07:26 IST" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kbm.qa.tests.LoginTest@67d48005]" started-at="2026-01-18T23:07:26 IST" name="tearDown" finished-at="2026-01-18T23:07:26 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- kbm.qa.tests.LoginTest -->
+    </test> <!-- Login page Test -->
+  </suite> <!-- Login Suite -->
+</testng-results>

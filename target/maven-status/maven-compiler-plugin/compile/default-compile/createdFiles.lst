@@ -1,0 +1,6 @@
+kbm\qa\pages\LoginPage.class
+kbm\qa\utils\Log.class
+kbm\qa\driver\DriverFactory.class
+kbm\qa\utils\BasePage.class
+kbm\qa\utils\ConfigReader.class
+kbm\qa\utils\ExcelUtil.class

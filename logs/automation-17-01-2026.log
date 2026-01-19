@@ -1,0 +1,10 @@
+2026-01-17 20:01:35 INFO  Log - Launching Chrome browser
+2026-01-17 20:01:41 INFO  Log - ===== Login Title Test =====
+2026-01-17 20:01:41 INFO  Log - Closing browser
+2026-01-17 20:01:41 INFO  Log - Launching Chrome browser
+2026-01-17 20:01:45 INFO  Log - Closing browser
+2026-01-17 20:01:45 INFO  Log - Launching Chrome browser
+2026-01-17 20:01:47 INFO  Log - Entering username: student
+2026-01-17 20:01:49 INFO  Log - Entering password
+2026-01-17 20:01:49 INFO  Log - Clicking Login button
+2026-01-17 20:01:50 INFO  Log - Closing browser

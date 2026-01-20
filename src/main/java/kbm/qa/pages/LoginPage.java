@@ -20,7 +20,7 @@ public class LoginPage extends BasePage {
     private By successMsg = By.cssSelector(".post-title");
     private By errorMsg = By.id("error");
 
-    // constructors
+    // constructors of Login Page
     public LoginPage() {
 		basePage = new BasePage();
 	}
@@ -39,6 +39,7 @@ public class LoginPage extends BasePage {
         return getText(successMsg);
     }
     
+    //Return login page title
     public String getLoginPageTitle() {
        	return basePage.getPageTitle();
     }
@@ -54,6 +55,10 @@ public class LoginPage extends BasePage {
 
     public boolean isErrorDisplayed() {
         return driver.findElements(errorMsg).size() > 0;
+    }
+    
+    public void Demo() {
+    	
     }
 }
 
